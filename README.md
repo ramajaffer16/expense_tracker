@@ -37,5 +37,3 @@ lib/
 │   └── add_expense_screen.dart
 └── widgets/
     └── summary_chart.dart
-```
->>>>>>> 253994c (finalizing the models features)
