@@ -38,7 +38,4 @@ lib/
 └── widgets/
     └── summary_chart.dart
 ```
-
-## Screenshots
-> Add screenshots here
 >>>>>>> 253994c (finalizing the models features)
